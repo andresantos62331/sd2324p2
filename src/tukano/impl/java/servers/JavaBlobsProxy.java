@@ -33,7 +33,7 @@ public class JavaBlobsProxy implements ExtendedBlobs {
 
     private static final String apiKey = "z8ew8syaoomplrd";
     private static final String apiSecret = "mzhz3lfnmx16xaf";
-    private static final String accessTokenStr = "sl.B2XPxlyrt3DVcDRNgA5RLRDy_SwXfbUUPc8iN0YD7QDuJ0mlf9NitmOY1lAsNum441Wey2SYKfWksLM_VbXu_SIav2YKKXRJ975RbcXqh2BtkBnG-8OU1RJVhZp4y2R-4hJ9mFpSii4b";
+    private static final String accessTokenStr = "sl.B2W64CyWhmbRtFJRPfALK4TwBKS4GdetgKZBG8yNHjRFfux4QsEXhKOtXIxy9tE3AaGqrXiwrqTIAeLgCCyiPJkj_Wg5v__5khI_afG06zfnImLKzrsoUvhEAQKVv2zX_x2fG5Dj_sF5";
     private static final String UPLOAD_URL = "https://content.dropboxapi.com/2/files/upload";
     private static final String DOWNLOAD_URL = "https://content.dropboxapi.com/2/files/download";
     private static final String DELETE_URL = "https://api.dropboxapi.com/2/files/delete_v2";
